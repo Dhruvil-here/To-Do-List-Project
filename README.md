@@ -23,7 +23,7 @@ A simple and responsive To-Do List application built with HTML, CSS, and JavaScr
 
 ## Contact
 
-For any inquiries, please contact dhruvilgautam@gmail.com.
+For any inquiries, please contact dhruvilgautam5@gmail.com.
 
 ---
 
